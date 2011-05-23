@@ -15,6 +15,6 @@ Usage
 - `Alt-Z` on selected lines will collapse them
 - `Alt-Z` on an indented block's top line will collapse that block
 - `Alt-Z` on a folded block will expand it
-- `Alt-X` will collapse all blocks on the deepest indention column
+- `Alt-X` will collapse all blocks on the deepest indention column (you can keep pressing Alt-X until all indention levels are folded)
 - `Shift-Alt-X` will expand all the collapsed blocks
 
