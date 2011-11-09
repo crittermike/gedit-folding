@@ -1,7 +1,7 @@
-[Gedit Plugin]
+[Plugin]
 Loader=python
 Module=folding
-IAge=2
+IAge=3
 Name=Simple Folding
 Description=Highlight the text and press Alt-Z to collapse. Put the cursor at the start of a code block (such as def, if, class, etc.) and press Alt-Z to collapse a block of indented text. Put the cursor on a folded line and press Alt-Z to expand. Press Alt-X to collapse code block columns until all code is folded. Press Shift-Alt-X to expand all the collapsed blocks.
 Description[ru]=Выделите текст и нажмите Alt-Z для сворачивания. Поставьте курсор на строку, после которой идет текст с отступом (например def, if, class и т.п.) и нажмите Alt-Z чтобы свернуть блок текста с отступом. Поставьте курсор в свернутую строку и нажмите Alt-Z для разворачивания. Нажмите Shift-Alt-X для разворачивания всех свернутых блоков.
