@@ -7,12 +7,12 @@ Installation
 --------------
 
 ####Unix/Linux
-* Move `folding.gedit-plugin` and `folding.py` into `~/.gnome2/gedit/plugins`
+* Move `folding.plugin` and `folding.py` into `~/.local/share/gedit/plugins`
 * In Gedit, go to Edit &rarr; Preferences &rarr; Plugins to enable the plugin.
 
 ####Windows
-* Move `folding.gedit-plugin` and `folding.py` into `C:\Program Files\gedit\lib\gedit-2\plugins`
-* In Gedit, go to Edit &rarr; Preferences &rarr; Plugins to enable the plugin.
+
+**Note**: As stated in IRC conversation at #gedit public channel, gedit3 is not ready for Windows (yet). Eventually this installation section will be updated when gedit3 supports Windows.
 
 Usage
 --------
